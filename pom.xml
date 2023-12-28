@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>mjs-cicd</finalName>
+		<finalName>coba-cicd</finalName>
 	</build>
 
 </project>

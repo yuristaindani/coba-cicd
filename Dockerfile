@@ -1,3 +1,3 @@
 FROM openjdk:21
-ADD target/mjs-cicd.jar mjs-cicd.jar
-ENTRYPOINT ["java", "-jar", "/mjs-cicd.jar"]
+ADD target/coba-cicd.jar coba-cicd.jar
+ENTRYPOINT ["java", "-jar", "/coba-cicd.jar"]
